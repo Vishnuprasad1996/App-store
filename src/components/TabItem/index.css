@@ -1,0 +1,17 @@
+.tab-list-item {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.tab-list-item-name {
+  color: #7b8794;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.active {
+  border-bottom: #2563eb solid 2px;
+  color: #2563eb;
+}
